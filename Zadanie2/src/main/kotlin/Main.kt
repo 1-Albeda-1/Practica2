@@ -6,7 +6,7 @@
 //D - 2
 //S - 3
 fun main(args: Array<String>) {
-    println("Задание №1")
+    println("Задание №2")
     print("Введите строку:")
     var str:String = String()
     str = readln()
